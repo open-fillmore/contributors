@@ -1,0 +1,4375 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "contributors",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8896486611, 42.9116095216 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/12/2022",
+				"Amount" : 500,
+				"Contributor Name" : "140 Westside Value Mini Max Inc.",
+				"Contributor Address" : "319 Massachusetts Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14213,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "B - Monetary Contributions Received From Corporation",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1061010.676390867",
+				"longitude" : "1066233.2118467125",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8026129146, 42.8338040605 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/10/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Adam  Fogel",
+				"Contributor Address" : "36 Britt Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14220,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1032581.96967557",
+				"longitude" : "1089475.2905159618",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8120860449, 42.842485034 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/06/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Alex  Colluchio",
+				"Contributor Address" : "61 Coolidge Rd",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14220,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1035752.4514078649",
+				"longitude" : "1086942.9426895268",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8807745077, 42.9032659073 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/25/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Amanda  Neudeck",
+				"Contributor Address" : "309 North Street #28",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "309 North Street #28 Buffalo, NY 14201",
+				"latitude" : "1057961.331079127",
+				"longitude" : "1068599.7526814726",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8141377588, 42.9040753611 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/20/2022",
+				"Amount" : 250,
+				"Contributor Name" : "Amthor Glass & Mirror Co., Inc.",
+				"Contributor Address" : "1822 Bailey Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14211,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "B - Monetary Contributions Received From Corporation",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "1822 Bailey Ave Buffalo, NY 14211",
+				"latitude" : "1058200.3064175139",
+				"longitude" : "1086454.218103626",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8804428722, 42.8900134847 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/13/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Andrew  Freedman",
+				"Contributor Address" : "191 W Huron",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1053131.2018370025",
+				"longitude" : "1068671.5583033701",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8804548158, 42.8900290765 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/02/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Andrew  Freedman",
+				"Contributor Address" : "191 West Huron St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "191 West Huron St Buffalo, NY 14201",
+				"latitude" : "1053136.8955187441",
+				"longitude" : "1068668.377687303",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8684072555, 42.912202482 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/13/2021",
+				"Amount" : 250,
+				"Contributor Name" : "Anthony  Chase",
+				"Contributor Address" : "350 Linwood Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14209,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1061206.7848067281",
+				"longitude" : "1071924.2828780734",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8684072555, 42.912202482 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/29/2022",
+				"Amount" : 150,
+				"Contributor Name" : "Anthony  Chase",
+				"Contributor Address" : "350 Linwood Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14209,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1061206.7848067281",
+				"longitude" : "1071924.2828780734",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8743317709, 42.8859980244 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/04/2021",
+				"Amount" : 250,
+				"Contributor Name" : "Anthony  Masiello",
+				"Contributor Address" : "438 Main St Ste 500",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "438 Main St Ste 500 Buffalo, NY 14202",
+				"latitude" : "1051662.058376311",
+				"longitude" : "1070304.1681657245",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8303449005, 42.8564614772 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/05/2022",
+				"Amount" : 125,
+				"Contributor Name" : "April 4 Erie County",
+				"Contributor Address" : "Po Box 700",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14205,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Political Committee",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2023 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "Po Box 700 Buffalo, NY 14205",
+				"latitude" : "1040859.9155057317",
+				"longitude" : "1082061.0693169269",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8373688856, 42.8930284822 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/05/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Babcias Pierogi",
+				"Contributor Address" : "999 Broadway",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14212,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Professional/Limited Liability Company (PLLC/LLC)",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2023 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1054192.2240314472",
+				"longitude" : "1080217.9479100301",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.88134596, 42.9189739054 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/06/2019",
+				"Amount" : 250,
+				"Contributor Name" : "Brian  Barnes",
+				"Contributor Address" : "609 Richmond Ave Apt 2",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "609 Richmond Ave Apt 2 Buffalo, NY 14222",
+				"latitude" : "1063686.6315867018",
+				"longitude" : "1068466.9199241681",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8373688856, 42.8930284822 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/24/2021",
+				"Amount" : 500,
+				"Contributor Name" : "Broadway Seafood, LLC",
+				"Contributor Address" : "999 Broadway",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14212,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Professional/Limited Liability Company (PLLC/LLC)",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1054192.2240314472",
+				"longitude" : "1080217.9479100301",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8820332605, 42.9001846953 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/20/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Bruce  Kogan",
+				"Contributor Address" : "38 Saint Johns Place Fl 2",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1056839.5837418716",
+				"longitude" : "1068258.5158988016",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8790793719, 42.899256483 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/02/2022",
+				"Amount" : 125,
+				"Contributor Name" : "Bryan  Ball",
+				"Contributor Address" : "82 College St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1056498.5038001586",
+				"longitude" : "1069048.7876930956",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8862523674, 42.9254554786 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/07/2022",
+				"Amount" : 250,
+				"Contributor Name" : "Bryan  Day",
+				"Contributor Address" : "360 Hoy St Lower",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14213,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "360 Hoy St Lower Buffalo, NY 14213",
+				"latitude" : "1066053.5300759883",
+				"longitude" : "1067161.2088423648",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8203699372, 42.8619301036 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/05/2022",
+				"Amount" : 250,
+				"Contributor Name" : "Buffalo Professional Firefighters Assoc",
+				"Contributor Address" : "500 Southside Pkwy",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14210,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Political Action Committee (PAC)",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2023 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1042845.245910471",
+				"longitude" : "1084741.2410604388",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8303449005, 42.8564614772 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/07/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Burke For Assembly",
+				"Contributor Address" : "Po Box 1202 ",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14220,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Political Committee",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "Po Box 1202  Buffalo, NY 14220",
+				"latitude" : "1040859.9155057317",
+				"longitude" : "1082061.0693169269",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8303449005, 42.8564614772 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/02/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Burke For Assembly",
+				"Contributor Address" : "Po Box 1202 ",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14220,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Political Committee",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "Po Box 1202  Buffalo, NY 14220",
+				"latitude" : "1040859.9155057317",
+				"longitude" : "1082061.0693169269",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8303449005, 42.8564614772 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/13/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Burke For Assembly",
+				"Contributor Address" : "Po Box 1202 ",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14220,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Political Committee",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "Po Box 1202  Buffalo, NY 14220",
+				"latitude" : "1040859.9155057317",
+				"longitude" : "1082061.0693169269",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8870260265, 42.9257283323 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Catharine  Ackerson",
+				"Contributor Address" : "321 Bird Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14213,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "321 Bird Ave Buffalo, NY 14213",
+				"latitude" : "1066153.7185518704",
+				"longitude" : "1066954.3594329406",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8870260265, 42.9257283323 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/30/2020",
+				"Amount" : 100,
+				"Contributor Name" : "Catharine  Ackerson",
+				"Contributor Address" : "321 Bird Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14213,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "321 Bird Ave Buffalo, NY 14213",
+				"latitude" : "1066153.7185518704",
+				"longitude" : "1066954.3594329406",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8870260265, 42.9257283323 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/11/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Catharine  Ackerson",
+				"Contributor Address" : "321 Bird Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14213,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "321 Bird Ave Buffalo, NY 14213",
+				"latitude" : "1066153.7185518704",
+				"longitude" : "1066954.3594329406",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8870260265, 42.9257283323 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/02/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Catharine  Ackerson",
+				"Contributor Address" : "321 Bird Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14213,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "321 Bird Ave Buffalo, NY 14213",
+				"latitude" : "1066153.7185518704",
+				"longitude" : "1066954.3594329406",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8870260265, 42.9257283323 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/10/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Catharine  Ackerson",
+				"Contributor Address" : "321 Brid Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14213,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "321 Brid Ave Buffalo, NY 14213",
+				"latitude" : "1066153.7185518704",
+				"longitude" : "1066954.3594329406",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8870260265, 42.9257283323 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/31/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Catherine  Ackerson",
+				"Contributor Address" : "321 Bird Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14213,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "321 Bird Ave Buffalo, NY 14213",
+				"latitude" : "1066153.7185518704",
+				"longitude" : "1066954.3594329406",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.88117398, 42.8982487832 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/11/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Charles  Saunders",
+				"Contributor Address" : "17 Days Park",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1056133.2287513423",
+				"longitude" : "1068486.253605453",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8450319663, 42.9435075326 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/21/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Charles  Torres",
+				"Contributor Address" : "123 Depew Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14214,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-General",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "123 Depew Ave Buffalo, NY 14214",
+				"latitude" : "1072595.5554574085",
+				"longitude" : "1078221.6968057146",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8510864268, 42.9294564839 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/06/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Christine  Mcbride",
+				"Contributor Address" : "33 Crescent Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14214,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1067479.7506196392",
+				"longitude" : "1076584.3088730236",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8041117231, 42.9483366664 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/06/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Cody  Meyers",
+				"Contributor Address" : "634 Highgate Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14215,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1074324.1085465422",
+				"longitude" : "1089182.7419267062",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8923912656, 42.9170312701 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/31/2019",
+				"Amount" : 500,
+				"Contributor Name" : "Committee To Elect David A. Rivera",
+				"Contributor Address" : "250 Breckenridge St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14213,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Political Committee",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1062989.3130422966",
+				"longitude" : "1065505.755643353",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8833014292, 42.8828431248 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/13/2021",
+				"Amount" : 1000,
+				"Contributor Name" : "D&S Capital Real Estate III, LLC",
+				"Contributor Address" : "50 Lakefront Blvd, Ste 103",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Professional/Limited Liability Company (PLLC/LLC)",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "50 Lakefront Blvd, Ste 103 Buffalo, NY 14202",
+				"latitude" : "1050520.7016284617",
+				"longitude" : "1067896.2041218465",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8805024647, 42.8940237446 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/20/2021",
+				"Amount" : 100,
+				"Contributor Name" : "D.J.  Granville",
+				"Contributor Address" : "20 West Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "20 West Ave Buffalo, NY 14201",
+				"latitude" : "1054592.7871744847",
+				"longitude" : "1068660.7479171194",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8805024647, 42.8940237446 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/04/2022",
+				"Amount" : 250,
+				"Contributor Name" : "Daniel  Granvile",
+				"Contributor Address" : "20 West Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "20 West Ave Buffalo, NY 14201",
+				"latitude" : "1054592.7871744847",
+				"longitude" : "1068660.7479171194",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8805024647, 42.8940237446 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/07/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Daniel  Granville",
+				"Contributor Address" : "20 West Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "20 West Ave Buffalo, NY 14201",
+				"latitude" : "1054592.7871744847",
+				"longitude" : "1068660.7479171194",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8873057878, 42.8862709606 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/04/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Darlene  Knutsen",
+				"Contributor Address" : "255 Lakefront Blvd",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1051773.8151901518",
+				"longitude" : "1066827.4920710172",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8873057878, 42.8862709606 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/25/2022",
+				"Amount" : 250,
+				"Contributor Name" : "Darlene  Knutsen",
+				"Contributor Address" : "255 Lakefront Blvd",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2023 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1051773.8151901518",
+				"longitude" : "1066827.4920710172",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8798595704, 42.9102732544 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/31/2019",
+				"Amount" : 250,
+				"Contributor Name" : "Daryl  Springer",
+				"Contributor Address" : "197 Norwood Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1060514.2823795003",
+				"longitude" : "1068853.8856318789",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8397233627, 42.8967708833 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/15/2019",
+				"Amount" : 300,
+				"Contributor Name" : "David  Franczyk",
+				"Contributor Address" : "858 Fillmore Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14212,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1055558.0456733692",
+				"longitude" : "1079591.17439467",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8397233627, 42.8967708833 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/06/2019",
+				"Amount" : 275,
+				"Contributor Name" : "David  Franczyk",
+				"Contributor Address" : "858 Fillmore Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14212,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1055558.0456733692",
+				"longitude" : "1079591.17439467",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8397233627, 42.8967708833 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/19/2019",
+				"Amount" : 100,
+				"Contributor Name" : "David  Franczyk",
+				"Contributor Address" : "858 Fillmore Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14212,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-General",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1055558.0456733692",
+				"longitude" : "1079591.17439467",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8397233627, 42.8967708833 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/01/2021",
+				"Amount" : 100,
+				"Contributor Name" : "David  Franczyk",
+				"Contributor Address" : "858 Fillmore Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14212,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1055558.0456733692",
+				"longitude" : "1079591.17439467",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8743408745, 42.8850274853 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/19/2019",
+				"Amount" : 289.66,
+				"Contributor Name" : "Duggan Pawlowski & Cooke Llp",
+				"Contributor Address" : "403 Main Street Ste 700",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14203,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Partnership, including LLPs",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-General",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "403 Main Street Ste 700 Buffalo, NY 14203",
+				"latitude" : "1051308.3567215062",
+				"longitude" : "1070300.5058098084",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8708413102, 42.8991898465 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/06/2019",
+				"Amount" : 200,
+				"Contributor Name" : "East Allen Two Corp.",
+				"Contributor Address" : "20 Allen St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "B - Monetary Contributions Received From Corporation",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1056466.5704632686",
+				"longitude" : "1071256.0314904526",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8303449005, 42.8564614772 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/06/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Friends Of Christopher Scanlon",
+				"Contributor Address" : "Po Box 154",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14220,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Political Committee",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "Po Box 154 Buffalo, NY 14220",
+				"latitude" : "1040859.9155057317",
+				"longitude" : "1082061.0693169269",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8798218729, 42.8838844858 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/16/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Friends Of Mark Poloncarz",
+				"Contributor Address" : "Po Box 87 ",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Political Committee",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "Po Box 87  Buffalo, NY 14201",
+				"latitude" : "1050896.9191340688",
+				"longitude" : "1068830.1088625004",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8303449005, 42.8564614772 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/05/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Friends To Elect Howard Johnson",
+				"Contributor Address" : "Po Box 3453",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14240,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Political Committee",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2023 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "Po Box 3453 Buffalo, NY 14240",
+				"latitude" : "1040859.9155057317",
+				"longitude" : "1082061.0693169269",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/09/2020",
+				"Amount" : 150,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14206,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/02/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/23/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14206,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8388356336, 42.8900335596 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/06/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Greg Olma Projects",
+				"Contributor Address" : "615 Fillmore Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14212,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "B - Monetary Contributions Received From Corporation",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1053101.922064531",
+				"longitude" : "1079821.591551171",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8388356336, 42.8900335596 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/24/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Gregory  Olma",
+				"Contributor Address" : "615 Fillmore Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14212,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1053101.922064531",
+				"longitude" : "1079821.591551171",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8742766538, 42.8999356865 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/16/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Higgins for Congress",
+				"Contributor Address" : "570 Delaware Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Political Committee",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1056741.553214665",
+				"longitude" : "1070336.4955644489",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8303449005, 42.8564614772 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/01/2021",
+				"Amount" : 250,
+				"Contributor Name" : "Higgins For Congress",
+				"Contributor Address" : "Po Box 28",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14220,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Political Committee",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "Po Box 28 Buffalo, NY 14220",
+				"latitude" : "1040859.9155057317",
+				"longitude" : "1082061.0693169269",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8303449005, 42.8564614772 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/21/2022",
+				"Amount" : 125,
+				"Contributor Name" : "Higgins For Congress",
+				"Contributor Address" : "Po Box 28 ",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14220,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Political Committee",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "Po Box 28  Buffalo, NY 14220",
+				"latitude" : "1040859.9155057317",
+				"longitude" : "1082061.0693169269",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8510649085, 42.9016037514 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/19/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Howard  Johnson",
+				"Contributor Address" : "49 Pershing Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14211,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-General",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1057328.8353943806",
+				"longitude" : "1076557.773399612",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8468353966, 42.9380963285 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/10/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Ian  Kamery",
+				"Contributor Address" : "99 Russell St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14214,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1070624.947310137",
+				"longitude" : "1077732.6482522762",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8827309908, 42.9132914725 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/23/2021",
+				"Amount" : 1000,
+				"Contributor Name" : "It's The Joint Inc.",
+				"Contributor Address" : "530 Rhode Island St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14213,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "B - Monetary Contributions Received From Corporation",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1061616.991759736",
+				"longitude" : "1068088.560714842",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.839728705, 42.9002164347 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/05/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Ivory  Payne, Jr.",
+				"Contributor Address" : "986 Fillmore Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14211,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2023 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1056813.7735468172",
+				"longitude" : "1079593.5679921627",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.879442915, 42.9005973692 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/19/2021",
+				"Amount" : 125,
+				"Contributor Name" : "Jajean  Rose-Burney",
+				"Contributor Address" : "132 College Street",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "132 College Street Buffalo, NY 14201",
+				"latitude" : "1056987.5294916874",
+				"longitude" : "1068953.0982573114",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8164822408, 42.8520640151 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/19/2019",
+				"Amount" : 100,
+				"Contributor Name" : "James  Hull",
+				"Contributor Address" : "16 Portland Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-General",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1039246.6894453072",
+				"longitude" : "1085773.5959207332",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.879222121, 42.9270826138 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/04/2021",
+				"Amount" : 175,
+				"Contributor Name" : "James  Moberly",
+				"Contributor Address" : "175 Claremont Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1066639.83783271",
+				"longitude" : "1069046.1986413738",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.879222121, 42.9270826138 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/23/2021",
+				"Amount" : 250,
+				"Contributor Name" : "James  Moberly",
+				"Contributor Address" : "175 Claremont Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1066639.83783271",
+				"longitude" : "1069046.1986413738",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8054829434, 42.8852291518 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/24/2019",
+				"Amount" : 240,
+				"Contributor Name" : "Janice  Swinnich",
+				"Contributor Address" : "18 Gold St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14206,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1051325.613736032",
+				"longitude" : "1088754.9030583662",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.875224404, 42.912881875 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/02/2021",
+				"Amount" : 150,
+				"Contributor Name" : "Jessica  Baker",
+				"Contributor Address" : "142 Lexington Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1061460.6494150974",
+				"longitude" : "1070098.9202613225",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.875224404, 42.912881875 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/06/2022",
+				"Amount" : 125,
+				"Contributor Name" : "Jessica  Baker",
+				"Contributor Address" : "142 Lexington Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1061460.6494150974",
+				"longitude" : "1070098.9202613225",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8304028172, 42.8564293534 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/20/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Jo-Ann  Barris",
+				"Contributor Address" : "82 Marlowe Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14219,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "82 Marlowe Ave Buffalo, NY 14219",
+				"latitude" : "1040848.2536839363",
+				"longitude" : "1082045.505908865",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8754497588, 42.920061808 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/06/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Joe  Letteri",
+				"Contributor Address" : "619 Lafayette Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1064077.578223783",
+				"longitude" : "1070047.6358500756",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8770881763, 42.8858292844 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/19/2019",
+				"Amount" : 500,
+				"Contributor Name" : "John  Evans",
+				"Contributor Address" : "68 Court St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-General",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1051603.1269617528",
+				"longitude" : "1069565.2372674712",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8782400451, 42.9190828054 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/05/2021",
+				"Amount" : 100,
+				"Contributor Name" : "John  Licata",
+				"Contributor Address" : "519 Ashland Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1063723.388762416",
+				"longitude" : "1069299.0004315206",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8730745624, 42.9236862539 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/13/2021",
+				"Amount" : 100,
+				"Contributor Name" : "John  O'Donnell",
+				"Contributor Address" : "707 Potomac Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1065396.3052323",
+				"longitude" : "1070688.3868894",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8730745624, 42.9236862539 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/07/2022",
+				"Amount" : 100,
+				"Contributor Name" : "John  O'Donnell",
+				"Contributor Address" : "707 Potomac Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2023 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1065396.3052323",
+				"longitude" : "1070688.3868894",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8978984088, 42.905126208 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/18/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Jonathan  Rivera",
+				"Contributor Address" : "800 Columbus Pkwy",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14213,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1058655.99533139",
+				"longitude" : "1064014.362886709",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8780510576, 42.937558248 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/07/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Joshua   Pennel",
+				"Contributor Address" : "144 Chatham Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14216,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1070456.5818075496",
+				"longitude" : "1069373.21154717",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8780510576, 42.937558248 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/14/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Joshua  Pennel",
+				"Contributor Address" : "144 Chatham Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14216,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1070456.5818075496",
+				"longitude" : "1069373.21154717",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8821181859, 42.8978172877 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/01/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Julia  Hall",
+				"Contributor Address" : "112 Cottage Street",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "112 Cottage Street Buffalo, NY 14201",
+				"latitude" : "1055976.8677934103",
+				"longitude" : "1068232.698380507",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8821181859, 42.8978172877 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/26/2021",
+				"Amount" : 125,
+				"Contributor Name" : "Julia  Hall",
+				"Contributor Address" : "112 Cottage St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1055976.8677934103",
+				"longitude" : "1068232.698380507",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8821181859, 42.8978172877 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/11/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Julia  Hall",
+				"Contributor Address" : "112 Cottage St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1055976.8677934103",
+				"longitude" : "1068232.698380507",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8571295081, 42.8776720389 ]
+			},
+			"properties" : {
+				"Contribution Date" : "07/21/2021",
+				"Amount" : 150,
+				"Contributor Name" : "Julia  Spitz",
+				"Contributor Address" : "500 Seneca St, STe 508",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14204,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "500 Seneca St, STe 508 Buffalo, NY 14204",
+				"latitude" : "1048612.2163217065",
+				"longitude" : "1074904.5051477188",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8787052102, 42.925393002 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/06/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Justin  Azzarella",
+				"Contributor Address" : "750 Ashland Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1066023.5729694727",
+				"longitude" : "1069182.4767216302",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8787052102, 42.925393002 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/03/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Justin  Azzarella",
+				"Contributor Address" : "750 Ashland Ave Upper",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-General",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "750 Ashland Ave Upper Buffalo, NY 14222",
+				"latitude" : "1066023.5729694727",
+				"longitude" : "1069182.4767216302",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8787052102, 42.925393002 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/26/2021",
+				"Amount" : 250,
+				"Contributor Name" : "Justin  Azzarella",
+				"Contributor Address" : "750 Ashland Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1066023.5729694727",
+				"longitude" : "1069182.4767216302",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8787052102, 42.925393002 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/19/2022",
+				"Amount" : 125,
+				"Contributor Name" : "Justin  Azzarella",
+				"Contributor Address" : "750 Ashland Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1066023.5729694727",
+				"longitude" : "1069182.4767216302",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8747473139, 42.9408050761 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/29/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Justin  Pitts",
+				"Contributor Address" : "800 Amherst St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14216,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1071636.8072404775",
+				"longitude" : "1070261.976679824",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8790371576, 42.895995414 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/22/2020",
+				"Amount" : 100,
+				"Contributor Name" : "Kate  Engler",
+				"Contributor Address" : "343 Virgina St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "343 Virgina St Buffalo, NY 14201",
+				"latitude" : "1055309.9746507672",
+				"longitude" : "1069055.9234314503",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8303449005, 42.8564614772 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/29/2022",
+				"Amount" : 125,
+				"Contributor Name" : "Kennedy For Senate",
+				"Contributor Address" : "Po Box 73",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14220,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Political Committee",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "Po Box 73 Buffalo, NY 14220",
+				"latitude" : "1040859.9155057317",
+				"longitude" : "1082061.0693169269",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8303449005, 42.8564614772 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/05/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Kennedy For Senate",
+				"Contributor Address" : "Po Box 73",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14220,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Political Committee",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2023 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "Po Box 73 Buffalo, NY 14220",
+				"latitude" : "1040859.9155057317",
+				"longitude" : "1082061.0693169269",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8725386399, 42.8842721501 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/28/2021",
+				"Amount" : 250,
+				"Contributor Name" : "Kenneth  Yu",
+				"Contributor Address" : "210 Ellicott St Apt 305",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14203,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "210 Ellicott St Apt 305 Buffalo, NY 14203",
+				"latitude" : "1051031.4127806665",
+				"longitude" : "1070782.5664564339",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.830294338, 42.9413580316 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/15/2021",
+				"Amount" : 250,
+				"Contributor Name" : "Khaled  Ali",
+				"Contributor Address" : "131 Mercer Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14214,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1071800.2353866429",
+				"longitude" : "1082165.407321157",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8719130681, 42.8933899328 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/14/2022",
+				"Amount" : 125,
+				"Contributor Name" : "Khristopher  Decker",
+				"Contributor Address" : "712 Main St #401",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "712 Main St #401 Buffalo, NY 14202",
+				"latitude" : "1054353.788016016",
+				"longitude" : "1070961.6149578078",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8719130681, 42.8933899328 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/31/2019",
+				"Amount" : 250,
+				"Contributor Name" : "Kristopher  Decker",
+				"Contributor Address" : "712 Main St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "712 Main St Buffalo, NY 14202",
+				"latitude" : "1054353.788016016",
+				"longitude" : "1070961.6149578078",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8719130681, 42.8933899328 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/01/2021",
+				"Amount" : 175,
+				"Contributor Name" : "Kristopher  Decker",
+				"Contributor Address" : "712 Main St #401",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "712 Main St #401 Buffalo, NY 14202",
+				"latitude" : "1054353.788016016",
+				"longitude" : "1070961.6149578078",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8719130681, 42.8933899328 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/22/2021",
+				"Amount" : 250,
+				"Contributor Name" : "Kristopher  Decker",
+				"Contributor Address" : "712 Main St #401",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "712 Main St #401 Buffalo, NY 14202",
+				"latitude" : "1054353.788016016",
+				"longitude" : "1070961.6149578078",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8394173186, 42.9422451768 ]
+			},
+			"properties" : {
+				"Contribution Date" : "07/22/2019",
+				"Amount" : 500,
+				"Contributor Name" : "Leslie  Zemsky",
+				"Contributor Address" : "181 Morris Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14214,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-General",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1072130.8613303502",
+				"longitude" : "1079723.6220424746",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8873257119, 42.8859235268 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/07/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Louis   Fasolino",
+				"Contributor Address" : "249 Lakefront Blvd",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1051647.213229314",
+				"longitude" : "1066821.6952339024",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8812170137, 42.8943192337 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/20/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Lucia  Schultz",
+				"Contributor Address" : "37 10th St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1054701.1542168278",
+				"longitude" : "1068469.6547731173",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8442045836, 42.8957950368 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/29/2019",
+				"Amount" : 500,
+				"Contributor Name" : "Lucky  Majid",
+				"Contributor Address" : "729 Sycamore Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14212,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-General",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1055206.0901607117",
+				"longitude" : "1078389.314724922",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8824798882, 42.9215191348 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/01/2021",
+				"Amount" : 250,
+				"Contributor Name" : "Luke  Malecki",
+				"Contributor Address" : "72 Ardmore Pl",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14213,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1064615.316354768",
+				"longitude" : "1068166.4873061029",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8725386399, 42.8842721501 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/06/2019",
+				"Amount" : 250,
+				"Contributor Name" : "Mark  Cataldi",
+				"Contributor Address" : "210 Ellicott St Apt 305",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14203,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "210 Ellicott St Apt 305 Buffalo, NY 14203",
+				"latitude" : "1051031.4127806665",
+				"longitude" : "1070782.5664564339",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8778027041, 42.8990769165 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/06/2020",
+				"Amount" : 100,
+				"Contributor Name" : "Mark  Galvin",
+				"Contributor Address" : "79 Marine Dr Apt 11d",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "79 Marine Dr Apt 11d Buffalo, NY 14202",
+				"latitude" : "1056431.86183068",
+				"longitude" : "1069390.6322775963",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8778027041, 42.8990769165 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/07/2022",
+				"Amount" : 125,
+				"Contributor Name" : "Mark  Galvin",
+				"Contributor Address" : "79 Marine Dr Apt 11D",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "79 Marine Dr Apt 11D Buffalo, NY 14202",
+				"latitude" : "1056431.86183068",
+				"longitude" : "1069390.6322775963",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8788566803, 42.8778395393 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/05/2022",
+				"Amount" : 250,
+				"Contributor Name" : "Mark  Galvin",
+				"Contributor Address" : "79 Marine Dr",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2023 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1048692.9487458977",
+				"longitude" : "1069081.0568422684",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8798218729, 42.8838844858 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/05/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Mark  Peszko",
+				"Contributor Address" : "515 Brisbane Bldg",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14203,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "515 Brisbane Bldg Buffalo, NY 14203",
+				"latitude" : "1050896.9191340688",
+				"longitude" : "1068830.1088625004",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8388777255, 42.9007424393 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/15/2021",
+				"Amount" : 300,
+				"Contributor Name" : "Maruf  Ahmed",
+				"Contributor Address" : "1003 Fillmore Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14211,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1057004.7813730356",
+				"longitude" : "1079822.159992038",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.88117398, 42.8982487832 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/05/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Mary  Saunders",
+				"Contributor Address" : "17 Days Park",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1056133.2287513423",
+				"longitude" : "1068486.253605453",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8183417639, 42.8417522807 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/06/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Mary  Witkowski",
+				"Contributor Address" : "143 W Woodside Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14220,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1035490.0207979114",
+				"longitude" : "1085264.4886163338",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8805966629, 42.925784183 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/25/2021",
+				"Amount" : 150,
+				"Contributor Name" : "Matthew  Kent",
+				"Contributor Address" : "823 Richmond Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1066167.9229948001",
+				"longitude" : "1068676.3940070975",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8805966629, 42.925784183 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/05/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Matthew  Kent",
+				"Contributor Address" : "823 Richmond Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2023 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1066167.9229948001",
+				"longitude" : "1068676.3940070975",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8388777255, 42.9007424393 ]
+			},
+			"properties" : {
+				"Contribution Date" : "12/09/2022",
+				"Amount" : 500,
+				"Contributor Name" : "MD  Ahmed",
+				"Contributor Address" : "1003 Fillmore Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14211,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2023 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1057004.7813730356",
+				"longitude" : "1079822.159992038",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.843553482, 42.9497849245 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/04/2021",
+				"Amount" : 350,
+				"Contributor Name" : "Michael  Hughes",
+				"Contributor Address" : "343 Starin Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14216,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1074882.127853727",
+				"longitude" : "1078624.6413628918",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.843553482, 42.9497849245 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/13/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Michael  Hughes",
+				"Contributor Address" : "343 Starin Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14216,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1074882.127853727",
+				"longitude" : "1078624.6413628918",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.843553482, 42.9497849245 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/15/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Michael  Hughes",
+				"Contributor Address" : "343 Starin Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14216,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1074882.127853727",
+				"longitude" : "1078624.6413628918",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8065066205, 42.8715823127 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/19/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Michael  Kuzma",
+				"Contributor Address" : "1893 Clinton St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14206,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-General",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1046352.7977600861",
+				"longitude" : "1088467.3724486667",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8787633427, 42.9014762013 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/29/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Michael  Moch",
+				"Contributor Address" : "163 College St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1057307.178251328",
+				"longitude" : "1069136.3048274596",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8853957139, 42.9256892925 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/05/2021",
+				"Amount" : 250,
+				"Contributor Name" : "Michael  Pacifico",
+				"Contributor Address" : "365 Bird Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14213,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "365 Bird Ave Buffalo, NY 14213",
+				"latitude" : "1066137.9185231698",
+				"longitude" : "1067390.9514815407",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8142486014, 42.899105699 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/23/2020",
+				"Amount" : 250,
+				"Contributor Name" : "Moad  Almaklefy",
+				"Contributor Address" : "1640 Bailey Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14212,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2020 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "1640 Bailey Ave Buffalo, NY 14212",
+				"latitude" : "1056389.2049118455",
+				"longitude" : "1086419.5518881015",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.835218595, 42.896140738 ]
+			},
+			"properties" : {
+				"Contribution Date" : "12/09/2022",
+				"Amount" : 1000,
+				"Contributor Name" : "Mohammad  Chowdhury",
+				"Contributor Address" : "83 Woltz Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14212,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2023 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1055324.7463487322",
+				"longitude" : "1080797.554021839",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8762170152, 42.8978603045 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/26/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Patrick  Sheldon",
+				"Contributor Address" : "34 Park Street",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "34 Park Street Buffalo, NY 14201",
+				"latitude" : "1055986.9877916614",
+				"longitude" : "1069813.9641025653",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.833636167, 42.9452766237 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/05/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Rebecca  Town",
+				"Contributor Address" : "20 Huntington Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14214,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1073231.0139257044",
+				"longitude" : "1081274.8494967052",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8424113429, 42.9366968442 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/06/2019",
+				"Amount" : 500,
+				"Contributor Name" : "Richard  Barnes",
+				"Contributor Address" : "2500 Main Place Tower",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "2500 Main Place Tower Buffalo, NY 14202",
+				"latitude" : "1070111.2247308916",
+				"longitude" : "1078915.724643584",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8424113429, 42.9366968442 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/31/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Richard  Barnes",
+				"Contributor Address" : "2500 Main Place Tower",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "2500 Main Place Tower Buffalo, NY 14202",
+				"latitude" : "1070111.2247308916",
+				"longitude" : "1078915.724643584",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8424113429, 42.9366968442 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/06/2020",
+				"Amount" : 100,
+				"Contributor Name" : "Richard  Barnes",
+				"Contributor Address" : "2500 Main Place Tower",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "2500 Main Place Tower Buffalo, NY 14202",
+				"latitude" : "1070111.2247308916",
+				"longitude" : "1078915.724643584",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8630428175, 42.9193488696 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/05/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Richard  Lundberg, Jr.",
+				"Contributor Address" : "70 Harvard Pl",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14209,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2023 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1063806.4554440738",
+				"longitude" : "1073370.0007681302",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8799613041, 42.901694619 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/29/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Richard  Rodgers",
+				"Contributor Address" : "19 Arlington Pl #31",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1057387.9091065205",
+				"longitude" : "1068815.612123623",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.887204244, 42.9389057803 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/31/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Robert  Hummel",
+				"Contributor Address" : "447 Amherst St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14207,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1070956.4121605656",
+				"longitude" : "1066923.9767577038",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8521973061, 42.9527997498 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/29/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Robert  Hummel",
+				"Contributor Address" : "304 Wellington Rd",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14216,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1075988.1646028424",
+				"longitude" : "1076313.999262668",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8742766538, 42.8999356865 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/16/2022",
+				"Amount" : 250,
+				"Contributor Name" : "Ronald  Benderson",
+				"Contributor Address" : "570 Delaware Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1056741.553214665",
+				"longitude" : "1070336.4955644489",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8427897854, 42.8755811821 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/04/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Roxanne  Chase",
+				"Contributor Address" : "57 Fillmore Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14210,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1047838.0407697987",
+				"longitude" : "1078745.7175276547",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8793424867, 42.8999479278 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/18/2022",
+				"Amount" : 250,
+				"Contributor Name" : "Ryan  Arthurs",
+				"Contributor Address" : "106 College Street",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "106 College Street Buffalo, NY 14201",
+				"latitude" : "1056750.7472707732",
+				"longitude" : "1068979.1742775682",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8341882287, 42.9414047919 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/04/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Sean  Mulligan",
+				"Contributor Address" : "47 Benwood Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14214,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1071820.3628933055",
+				"longitude" : "1081122.829777753",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8435520171, 42.9499019998 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/31/2019",
+				"Amount" : 250,
+				"Contributor Name" : "Sean Ryan For Assembly",
+				"Contributor Address" : "347 Starin Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14216,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Political Committee",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1074924.794853064",
+				"longitude" : "1078625.165567239",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8435520171, 42.9499019998 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/31/2019",
+				"Amount" : 250,
+				"Contributor Name" : "Sean Ryan For Assembly",
+				"Contributor Address" : "347 Starin Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14216,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Political Committee",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1074924.794853064",
+				"longitude" : "1078625.165567239",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8456885369, 42.9472813803 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/12/2022",
+				"Amount" : 250,
+				"Contributor Name" : "Sean Ryan for Senate",
+				"Contributor Address" : "1685 Hertel Ave Aot 204A",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14216,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : "Political Committee",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "1685 Hertel Ave Aot 204A Buffalo, NY 14216",
+				"latitude" : "1073971.4848679285",
+				"longitude" : "1078050.1902703545",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8787466413, 42.9120800365 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/06/2019",
+				"Amount" : 250,
+				"Contributor Name" : "Shany  Jacob",
+				"Contributor Address" : "268 Ashland Ave Apt 2",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "268 Ashland Ave Apt 2 Buffalo, NY 14222",
+				"latitude" : "1061171.7131107827",
+				"longitude" : "1069154.3451461883",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.875224404, 42.912881875 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/31/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Stephanie  Parobek",
+				"Contributor Address" : "142 Lexington Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1061460.6494150974",
+				"longitude" : "1070098.9202613225",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.875224404, 42.912881875 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/04/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Stephanie  Parobek",
+				"Contributor Address" : "142 Lexington Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1061460.6494150974",
+				"longitude" : "1070098.9202613225",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8424113429, 42.9366968442 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/08/2019",
+				"Amount" : 500,
+				"Contributor Name" : "Stephen  Barnes",
+				"Contributor Address" : "2500 Main Place Tower",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "2500 Main Place Tower Buffalo, NY 14202",
+				"latitude" : "1070111.2247308916",
+				"longitude" : "1078915.724643584",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8782678542, 42.8989666261 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/05/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Stuart  Gordon",
+				"Contributor Address" : "74 Mariner St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1056392.1031009606",
+				"longitude" : "1069265.8575925082",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8782678542, 42.8989666261 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/04/2022",
+				"Amount" : 125,
+				"Contributor Name" : "Stuart  Gordon",
+				"Contributor Address" : "74 Mariner Street",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "74 Mariner Street Buffalo, NY 14201",
+				"latitude" : "1056392.1031009606",
+				"longitude" : "1069265.8575925082",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8407541478, 42.9027065929 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/15/2021",
+				"Amount" : 250,
+				"Contributor Name" : "Sunshine Buffalo Inc",
+				"Contributor Address" : "14 Myers St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14211,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "B - Monetary Contributions Received From Corporation",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1057722.145227539",
+				"longitude" : "1079321.5882793663",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8174422184, 42.896206097 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/15/2021",
+				"Amount" : 500,
+				"Contributor Name" : "Super Stop Gas & Food, Inc.",
+				"Contributor Address" : "1547 Broadway",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14212,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "B - Monetary Contributions Received From Corporation",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1055334.8155778092",
+				"longitude" : "1085560.9052589543",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8775874527, 42.8853156811 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/05/2022",
+				"Amount" : 500,
+				"Contributor Name" : "Talha  Bakth",
+				"Contributor Address" : "70 Niagara St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2023 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1051416.413033392",
+				"longitude" : "1069430.776645138",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.850822409, 42.8669822291 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/06/2021",
+				"Amount" : 200,
+				"Contributor Name" : "Thomas  Kilanski",
+				"Contributor Address" : "35 Harvey Pl",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14201,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1044710.923076876",
+				"longitude" : "1076582.6594456641",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8234047611, 42.9218606373 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/13/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Tianna  Marks",
+				"Contributor Address" : "265 Wyoming Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14215,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1064689.0718162942",
+				"longitude" : "1083989.8809925516",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8428781068, 42.9576601374 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/05/2022",
+				"Amount" : 100,
+				"Contributor Name" : "Tianna  Marks",
+				"Contributor Address" : "25 Alden Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14216,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2023 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1077751.7005405414",
+				"longitude" : "1078814.3145411764",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8408306863, 42.9291625787 ]
+			},
+			"properties" : {
+				"Contribution Date" : "09/15/2021",
+				"Amount" : 500,
+				"Contributor Name" : "Tofa Business Group Inc.",
+				"Contributor Address" : "57 Pauline St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14214,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "B - Monetary Contributions Received From Corporation",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1067364.062193832",
+				"longitude" : "1079330.5876692699",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8778798361, 42.9102559379 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/25/2021",
+				"Amount" : 100,
+				"Contributor Name" : "Troy  Brahaspat",
+				"Contributor Address" : "187 Hodge Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "187 Hodge Ave Buffalo, NY 14222",
+				"latitude" : "1060506.1088442013",
+				"longitude" : "1069384.224050992",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8778798361, 42.9102559379 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/05/2022",
+				"Amount" : 250,
+				"Contributor Name" : "Troy  Brahaspat",
+				"Contributor Address" : "187 Hodge Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14222,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "187 Hodge Ave Buffalo, NY 14222",
+				"latitude" : "1060506.1088442013",
+				"longitude" : "1069384.224050992",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8709727235, 42.8991983587 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/06/2019",
+				"Amount" : 200,
+				"Contributor Name" : "Ward Little Holding Corp",
+				"Contributor Address" : "26 Allen St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "B - Monetary Contributions Received From Corporation",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1056469.7930058267",
+				"longitude" : "1071220.8308296236",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8709727235, 42.8991983587 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/02/2021",
+				"Amount" : 250,
+				"Contributor Name" : "Ward Little Holding Corp",
+				"Contributor Address" : "26 Allen St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "B - Monetary Contributions Received From Corporation",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2021 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1056469.7930058267",
+				"longitude" : "1071220.8308296236",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8724732113, 42.8994094826 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/15/2021",
+				"Amount" : 300,
+				"Contributor Name" : "Ward Little Holding Corp",
+				"Contributor Address" : "Allen St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "B - Monetary Contributions Received From Corporation",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1056548.1141970328",
+				"longitude" : "1070819.050343029",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8709727235, 42.8991983587 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/29/2022",
+				"Amount" : 300,
+				"Contributor Name" : "Ward Little Holding Corp",
+				"Contributor Address" : "26 Allen St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14202,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "B - Monetary Contributions Received From Corporation",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2022 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1056469.7930058267",
+				"longitude" : "1071220.8308296236",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8439028843, 42.8839024842 ]
+			},
+			"properties" : {
+				"Contribution Date" : "10/05/2022",
+				"Amount" : 1000,
+				"Contributor Name" : "Window Factory Outlet Inc.",
+				"Contributor Address" : "815 Smith St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : 14206,
+				"Contributor Country" : "United States",
+				"Transaction Type" : "B - Monetary Contributions Received From Corporation",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Mitch Nowakowski - ID# 13399",
+				"Disclosure Report" : "2023 State/Local January Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1050871.6320454692",
+				"longitude" : "1078456.7419972813",
+				"donor_district" : "Fillmore"
+			}
+		}
+	]
+}

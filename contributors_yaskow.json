@@ -1,0 +1,3092 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "contributors",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8802983213, 42.8901286996 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Anthony J Devito",
+				"Contributor Address" : "24 Rabi Teri",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14201",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "24 Rabi Teri Buffalo, NY 14201",
+				"latitude" : "1053173.0549272418",
+				"longitude" : "1068710.4435331144",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8985179467, 42.9182545397 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/21/2019",
+				"Amount" : 250,
+				"Contributor Name" : "Breezer Property Management",
+				"Contributor Address" : "1255 Niagara St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14213",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1063441.2203003222",
+				"longitude" : "1063866.2988739796",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.900570819, 42.9340727396 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/16/2019",
+				"Amount" : 500,
+				"Contributor Name" : "Bruce  Woody",
+				"Contributor Address" : "169 Dearborn St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14207",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1069208.2245799673",
+				"longitude" : "1063338.1551519323",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8960011204, 42.9121419825 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Carmelo  Parlato",
+				"Contributor Address" : "121 School St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14213",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1061210.9899132128",
+				"longitude" : "1064532.178748052",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8414612923, 42.94423989 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Castle Constuction",
+				"Contributor Address" : "220 Depew Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14214",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "C - Monetary Contributions Received From All Other",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "220 Depew Ave Buffalo, NY 14214",
+				"latitude" : "1072859.50891317",
+				"longitude" : "1079178.566672305",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.862458514, 42.864677743 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/21/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Daniel  Granville",
+				"Contributor Address" : "112 South St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14204",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1043881.185881185",
+				"longitude" : "1073460.4438586277",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8873057878, 42.8862709606 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Darlene  Kuetsen",
+				"Contributor Address" : "255 Lakefront Blvd",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14202",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1051773.8151901518",
+				"longitude" : "1066827.4920710172",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.877007599, 42.9402792167 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 100,
+				"Contributor Name" : "David  Haefner",
+				"Contributor Address" : "735 Amherst St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14216",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1071447.2626684653",
+				"longitude" : "1069656.0878678774",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8808102416, 42.8919320754 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/17/2019",
+				"Amount" : 100,
+				"Contributor Name" : "David  Wahl",
+				"Contributor Address" : "34 Whitney Pl",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14201",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1053830.774853707",
+				"longitude" : "1068575.580571905",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8397144613, 42.8906781397 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Debbie  Campbell",
+				"Contributor Address" : "636 Fillmore Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14212",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1053337.5535237712",
+				"longitude" : "1079586.7966511687",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8837576415, 42.882699542 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/02/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Douglas  Schultz",
+				"Contributor Address" : "702 Admirals Walk",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14202",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1050468.8092693673",
+				"longitude" : "1067773.7463287008",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8837576415, 42.882699542 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/21/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Douglas G Schultz",
+				"Contributor Address" : "702 Admirals Walk",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14202",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1050468.8092693673",
+				"longitude" : "1067773.7463287008",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8842256036, 42.8820674955 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 150,
+				"Contributor Name" : "Ernestime R Green",
+				"Contributor Address" : "101 4 Gull Landing",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14202",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1050238.9097700363",
+				"longitude" : "1067647.5026453377",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8753358895, 42.9013041522 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 500,
+				"Contributor Name" : "Fairfax Property Management",
+				"Contributor Address" : "64 Irving Pl",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14203",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "B - Monetary Contributions Received From Corporation",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1057241.2706195675",
+				"longitude" : "1070054.414706934",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8797763341, 42.9220510319 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/17/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Frank  Callocchia",
+				"Contributor Address" : "56 Bidwell Pkwy",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14222",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1064806.6027876118",
+				"longitude" : "1068891.3067075429",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8809963728, 42.8801674865 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Fred P Mcneela",
+				"Contributor Address" : "7 Marine Dr Apt 213",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14202",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "7 Marine Dr Apt 213 Buffalo, NY 14202",
+				"latitude" : "1049543.3812987576",
+				"longitude" : "1068510.5431368975",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.847020329, 42.8747845103 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/17/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Gerald  Obrien",
+				"Contributor Address" : "768 Carroll St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14210",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1047551.2191372573",
+				"longitude" : "1077610.8326036285",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "01/25/2019",
+				"Amount" : 5000,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/26/2019",
+				"Amount" : 175,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/03/2019",
+				"Amount" : 170.14,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/03/2019",
+				"Amount" : 170.14,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/13/2019",
+				"Amount" : 60,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/08/2019",
+				"Amount" : 217.5,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/04/2019",
+				"Amount" : 233.81,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/27/2019",
+				"Amount" : 27.19,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/11/2019",
+				"Amount" : 184.8,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/27/2019",
+				"Amount" : 16.31,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/06/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/18/2019",
+				"Amount" : 43.5,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/13/2019",
+				"Amount" : 18.49,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/08/2019",
+				"Amount" : 55,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/15/2019",
+				"Amount" : 92.4,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/22/2019",
+				"Amount" : 263.18,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/05/2019",
+				"Amount" : 56,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/04/2019",
+				"Amount" : 25.5,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/06/2019",
+				"Amount" : 94.43,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/19/2019",
+				"Amount" : 598.5,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "01/07/2019",
+				"Amount" : 105.49,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/18/2019",
+				"Amount" : 264,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "01/22/2019",
+				"Amount" : 51.5,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "01/21/2019",
+				"Amount" : 21.75,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/25/2019",
+				"Amount" : 18.49,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/09/2019",
+				"Amount" : 30,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/09/2019",
+				"Amount" : 175,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/17/2019",
+				"Amount" : 270.05,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/16/2019",
+				"Amount" : 1272.88,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/18/2019",
+				"Amount" : 41.71,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/11/2019",
+				"Amount" : 425.94,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/12/2019",
+				"Amount" : 276.74,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/14/2019",
+				"Amount" : 461.38,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/29/2019",
+				"Amount" : 27,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/12/2019",
+				"Amount" : 16.31,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/04/2019",
+				"Amount" : 76.13,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/08/2019",
+				"Amount" : 169.4,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/10/2019",
+				"Amount" : 185.9,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/12/2019",
+				"Amount" : 64.9,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/19/2019",
+				"Amount" : 295,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/01/2019",
+				"Amount" : 306,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/05/2019",
+				"Amount" : 184.88,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "01/25/2019",
+				"Amount" : 190,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "01/22/2019",
+				"Amount" : 42.35,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/08/2019",
+				"Amount" : 49.35,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/09/2019",
+				"Amount" : 2257.98,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/15/2019",
+				"Amount" : 60.85,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "02/08/2019",
+				"Amount" : 83.41,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/01/2019",
+				"Amount" : 197,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/02/2019",
+				"Amount" : 79.2,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/02/2019",
+				"Amount" : 85.8,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/08/2019",
+				"Amount" : 32.63,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/02/2019",
+				"Amount" : 45.68,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/27/2019",
+				"Amount" : 397.48,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/20/2019",
+				"Amount" : 79.93,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/19/2019",
+				"Amount" : 114.19,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/18/2019",
+				"Amount" : 233.8,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/21/2019",
+				"Amount" : 223.85,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "04/11/2019",
+				"Amount" : 166.39,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/05/2019",
+				"Amount" : 5000,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/30/2019",
+				"Amount" : 794,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/29/2019",
+				"Amount" : 146.98,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/23/2019",
+				"Amount" : 365.94,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8320550408, 42.8813439979 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/20/2019",
+				"Amount" : 15.73,
+				"Contributor Name" : "Gerhardt  Yaskow",
+				"Contributor Address" : "145 Lewis St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Candidate/Candidate Spouse",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1049929.596316027",
+				"longitude" : "1081629.3150305217",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8684871276, 42.9143012965 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 250,
+				"Contributor Name" : "Hal D Payne",
+				"Contributor Address" : "1119 Delaware Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14209",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1061971.7676631638",
+				"longitude" : "1071905.4783181325",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8285576593, 42.955217742 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/21/2019",
+				"Amount" : 150,
+				"Contributor Name" : "James  Knight",
+				"Contributor Address" : "1078 Englewood Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14223",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1076850.0588119416",
+				"longitude" : "1082645.1503674316",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8478932128, 42.8921162926 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 200,
+				"Contributor Name" : "Jimmy  Alferi",
+				"Contributor Address" : "31 N Johnson Park",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14201",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1053868.4659207112",
+				"longitude" : "1077396.7054868643",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8210723096, 42.9580043096 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Joe  Farrauto",
+				"Contributor Address" : "96 Capen St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14226",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1077859.8723936419",
+				"longitude" : "1084651.84981188",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8757039619, 42.9016218757 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/21/2019",
+				"Amount" : 300,
+				"Contributor Name" : "Joseph  Sole",
+				"Contributor Address" : "171 Park St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14201",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "171 Park St Buffalo, NY 14201",
+				"latitude" : "1057357.4066736023",
+				"longitude" : "1069956.197966103",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8797763341, 42.9220510319 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 250,
+				"Contributor Name" : "Keri  Callocchia",
+				"Contributor Address" : "56 Bidwell Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14222",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1064806.6027876118",
+				"longitude" : "1068891.3067075429",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8801269094, 42.9043837438 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/17/2019",
+				"Amount" : 500,
+				"Contributor Name" : "Len  Koch",
+				"Contributor Address" : "312 Summer St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14222",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1058368.112076007",
+				"longitude" : "1068774.6971857205",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8385928808, 42.9477394725 ]
+			},
+			"properties" : {
+				"Contribution Date" : "07/02/2019",
+				"Amount" : 150,
+				"Contributor Name" : "Lenzart Photograpic Lab",
+				"Contributor Address" : "1872 Hertel Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14214",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "B - Monetary Contributions Received From Corporation",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local July Periodic",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "1872 Hertel Ave Buffalo, NY 14214",
+				"latitude" : "1074132.5902903657",
+				"longitude" : "1079950.4482258093",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8788566803, 42.8778395393 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/08/2019",
+				"Amount" : 55,
+				"Contributor Name" : "Mark  Galvin",
+				"Contributor Address" : "79 Marine Dr",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14202",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1048692.9487458977",
+				"longitude" : "1069081.0568422684",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8833442, 42.8825179477 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/17/2019",
+				"Amount" : 50,
+				"Contributor Name" : "Matthew  Pasquarella",
+				"Contributor Address" : "401 Admirals Walk",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14202",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1050402.232687481",
+				"longitude" : "1067884.3186790738",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8862703708, 42.8844964859 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 150,
+				"Contributor Name" : "Matthew  Pasquerella",
+				"Contributor Address" : "200 Lake Front Blvd",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14202",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1051126.112961177",
+				"longitude" : "1067102.6555620332",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8753358895, 42.9013041522 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/17/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Michele  Greco",
+				"Contributor Address" : "64 Irving Pl",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14201",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1057241.2706195675",
+				"longitude" : "1070054.414706934",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8514185163, 42.8664363375 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 55.38,
+				"Contributor Name" : "Mike  Murphy",
+				"Contributor Address" : "7 Harvey Pl",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14210",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "D - In-Kind (Non-Monetary) Contributions Received",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1044512.4833117777",
+				"longitude" : "1076422.2204411014",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8387328164, 42.8845936718 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/17/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Nadir  Ali",
+				"Contributor Address" : "881 William St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14206",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1051119.2874366504",
+				"longitude" : "1079843.1303817995",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.857827722, 42.8703450728 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/17/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Nicholas  Cintorino",
+				"Contributor Address" : "587 S. Park",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14210",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1045942.5403888552",
+				"longitude" : "1074708.6545593888",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8805227721, 42.8972095788 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/17/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Norman  Glenister",
+				"Contributor Address" : "64 Cottage St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14201",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1055753.8762173068",
+				"longitude" : "1068659.4055104388",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8805227721, 42.8972095788 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/18/2019",
+				"Amount" : 300,
+				"Contributor Name" : "Norman  Glenister",
+				"Contributor Address" : "64 Cottage St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14201",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1055753.8762173068",
+				"longitude" : "1068659.4055104388",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8763097508, 42.924572081 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Robert  Meredith",
+				"Contributor Address" : "188 Bidwell Pkwy",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14222",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1065722.1452604826",
+				"longitude" : "1069823.009007778",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8708018652, 42.9078679445 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/21/2019",
+				"Amount" : 150,
+				"Contributor Name" : "Rock  Doyle",
+				"Contributor Address" : "877 Delaware Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14209",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1059629.2511101575",
+				"longitude" : "1071277.4031251373",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8538874524, 42.9420147715 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/21/2019",
+				"Amount" : 500,
+				"Contributor Name" : "Russell  Maxwell",
+				"Contributor Address" : "57 Tillinghast Pl",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14216",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 11-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1072059.0207771456",
+				"longitude" : "1075848.8834969262",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8538874524, 42.9420147715 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/20/2019",
+				"Amount" : 500,
+				"Contributor Name" : "Russell  Maxwell",
+				"Contributor Address" : "57 Tillinghast Pl",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14216",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1072059.0207771456",
+				"longitude" : "1075848.8834969262",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8664192662, 42.9136628299 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Salvatore A Zambito Ii",
+				"Contributor Address" : "419 Linwood Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14209",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1061737.2088947773",
+				"longitude" : "1072458.6286680333",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8741729434, 42.8749582394 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 150,
+				"Contributor Name" : "Samuel J Savarino",
+				"Contributor Address" : "95 Perry St #205",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14203",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"full_address" : "95 Perry St #205 Buffalo, NY 14203",
+				"latitude" : "1047638.4981756684",
+				"longitude" : "1070332.8363438128",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8794364885, 42.9092954721 ]
+			},
+			"properties" : {
+				"Contribution Date" : "03/08/2019",
+				"Amount" : 200,
+				"Contributor Name" : "Scott  Dunkle",
+				"Contributor Address" : "333 Bryant St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14222",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1060157.5319245022",
+				"longitude" : "1068965.9732113772",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8808102416, 42.8919320754 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/17/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Sharon  Heim",
+				"Contributor Address" : "34 Whitney Pl",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14201",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1053830.774853707",
+				"longitude" : "1068575.580571905",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8268416171, 42.8954881632 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/17/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Suffoletto Real Estate",
+				"Contributor Address" : "1300 Broadway St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14139",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "B - Monetary Contributions Received From Corporation",
+				"Contributor Type" : null,
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1055080.3118262407",
+				"longitude" : "1083041.5267267255",
+				"donor_district" : "Fillmore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8847860383, 42.9012376118 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/17/2019",
+				"Amount" : 50,
+				"Contributor Name" : "Theresa  Campbell",
+				"Contributor Address" : "91 Plymouth Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14201",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1057225.9466732151",
+				"longitude" : "1067522.3151676233",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8879115475, 42.9007977965 ]
+			},
+			"properties" : {
+				"Contribution Date" : "05/20/2019",
+				"Amount" : 500,
+				"Contributor Name" : "Theresa B Campbell",
+				"Contributor Address" : "245 Jersey St",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14201",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 32-Day Pre-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1057068.671741618",
+				"longitude" : "1066684.3051535",
+				"donor_district" : "Other"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.8664192662, 42.9136628299 ]
+			},
+			"properties" : {
+				"Contribution Date" : "06/17/2019",
+				"Amount" : 100,
+				"Contributor Name" : "Tim  Sick",
+				"Contributor Address" : "419 Linwood Ave",
+				"Contributor City" : "Buffalo",
+				"Contributor State" : "NY",
+				"Contributor Zip" : "14209",
+				"Contributor Country" : "United States",
+				"Transaction Type" : "A - Monetary Contributions Received From Ind. & Part.",
+				"Contributor Type" : "Individual",
+				"Recipient" : "Friends Of Gerhardt Yaskow - ID# 5978",
+				"Disclosure Report" : "2019 State/Local 10-Day Post-Primary",
+				"Committee Type" : "Authorized Single Candidate Committee",
+				"Filer Type" : "County",
+				"Filer County" : "Erie",
+				"Filer Municipality" : "Buffalo",
+				"latitude" : "1061737.2088947773",
+				"longitude" : "1072458.6286680333",
+				"donor_district" : "Other"
+			}
+		}
+	]
+}
